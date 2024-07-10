@@ -1,8 +1,8 @@
 name = "Ramil"
 print(name)
-age = 30
+age = 10
 print(age)
-new_age = (age + 10)
-print(age+new_age)
-is_student = (age < new_age)
+age = (10 + 18)
+print(age)
+is_student = (age < 50)
 print(is_student)
